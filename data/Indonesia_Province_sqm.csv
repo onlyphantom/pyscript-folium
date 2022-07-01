@@ -1,0 +1,35 @@
+Code,Province,Kabupaten,Kota,area(Km2)
+11,Aceh,18,5,57956.00
+12,Sumatera Utara,25,8,72981.23
+13,Sumatera Barat,12,7,42012.89
+14,Riau,10,2,87023.66
+15,Jambi,9,2,50053.16
+16,Sumatera Selatan,13,4,91592.43
+17,Bengkulu,9,1,19919.33
+18,Lampung,13,2,34623.80
+19,Kepulauan Bangka Belitung,6,1,16424.06
+21,Kepulauan Riau,5,2,8201.72
+31,DKI Jakarta,1,5,664.01
+32,Jawa Barat,18,9,35377.76
+33,Jawa Tengah,29,6,32800.69
+34,Daerah Istimewa Yogyakarta,4,1,3133.15
+35,Jawa Timur,29,9,47803.49
+36,Banten,4,4,9662.92
+51,Bali,8,1,5780.06
+52,Nusa Tenggara Barat,8,2,18752.32
+53,Nusa Tenggara Timur,21,1,48718.10
+61,Kalimantan Barat,12,2,147307.00
+62,Kalimantan Tengah,13,1,153564.50
+63,Kalimanatan Selatan,11,2,38744.23
+64,Kalimanatan Timur,7,3,129066.64
+65,Kalimantan Utara,4,1,75467.70
+71,Sulawesi Utara,11,4,13892.47
+72,Sulawesi Tengah,12,1,61841.29
+73,Sulawesi Selatan,21,3,46717.48
+74,Sulawesi Tenggara,15,2,38067.70
+75,Gorontalo,5,1,11257.07
+76,Sulawesi Barat,6,0,16787.18
+81,Maluku,9,2,46914.03
+82,Maluku Utara,8,2,31982.50
+91,Papua,28,1,319036.05
+92,Papua Barat,12,1,102955.15
